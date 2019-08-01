@@ -10,7 +10,7 @@ class Addon23 extends Component {
     render() {
         return (
             <div>
-                <FiddleComponent code='<div>
+                <FiddleComponent code='<div> Selva
                                            <InputGroup size="sm" >
                                              <p>  -InputGroup.x aria-label="x for following text input"- x=Checkbox or x=Radio</p>
                                                   <InputGroup.Prepend>
